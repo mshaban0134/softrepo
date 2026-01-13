@@ -1,2 +1,3 @@
 git reset vs git revert
 git reset vs git revert---2
+git reset vs git revert---3
